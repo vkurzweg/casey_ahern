@@ -89,7 +89,7 @@ const render = (messages) => {
             }
           />
         </LanguageProvider>
-      </Provider>
+      </Provider>,
     document.getElementById('app')
   );
 };
