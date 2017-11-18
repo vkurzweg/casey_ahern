@@ -12,7 +12,7 @@ import { Image } from 'cloudinary-react';
 function ContentDesktop() {
   return (
     <div className="container" style={{ width: '100%', padding: '0', backgroundColor: '#141213', zIndex: '5' }}>
-      <div className="row" style={{ margin: '0 auto', width: '100%', marginTop: '5%', backgroundColor: '#DEED96' }}>
+      <div className="row" style={{ margin: '0 auto', width: '100%', marginTop: '0', backgroundColor: '#DEED96' }}>
         <div className="col-sm-5" style={{ padding: '2%' }}>
           <h1 style={{ fontFamily: 'Ubuntu', fontSize: '42px', textAlign: 'right', textTransform: 'uppercase', letterSpacing: '5px' }}>coming soon</h1>
         </div>
