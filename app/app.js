@@ -38,10 +38,10 @@ import 'file-loader?name=[name].[ext]!./.htaccess';
 import '!!style-loader!css-loader!../node_modules/bootstrap/dist/css/bootstrap.css';
 // import '!!style-loader!css-loader!../node_modules/slick-carousel/slick/slick.css';
 // import '!!style-loader!css-loader!../node_modules/slick-carousel/slick/slick-theme.css';
-import '!!style-loader!css-loader!../app/components/press/PressContent/index.css';
+// import '!!style-loader!css-loader!../app/components/press/PressContent/index.css';
 // import '!!style-loader!css-loader!../node_modules/antd/dist/antd.css';
-import '!!style-loader!css-loader!../app/components/photography/LightboxContainer/index.css';
-import '!!style-loader!css-loader!../app/components/photography/LightboxContainerMobile/index.css';
+// import '!!style-loader!css-loader!../app/components/photography/LightboxContainer/index.css';
+// import '!!style-loader!css-loader!../app/components/photography/LightboxContainerMobile/index.css';
 
 
 /* eslint-enable import/no-unresolved, import/extensions */
