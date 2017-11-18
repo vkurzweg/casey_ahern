@@ -13,12 +13,12 @@ function ContentDesktop() {
   return (
     <div className="container" style={{ width: '100%', padding: '0', backgroundColor: '#141213', zIndex: '5' }}>
       <div className="row" style={{ margin: '0 auto', width: '100%', marginTop: '0', backgroundColor: '#DEED96' }}>
-        <div style={{ padding: '2%' }}>
-          <h2 style={{ fontFamily: 'Ubuntu', fontSize: '22px', textAlign: 'center', textTransform: 'uppercase', letterSpacing: '5px' }}>coming soon</h2>
+        <div style={{ padding: '1%' }}>
+          <h2 style={{ fontFamily: 'Ubuntu', fontSize: '20px', textAlign: 'center', textTransform: 'uppercase', letterSpacing: '5px' }}>coming soon</h2>
         </div>
       </div>
       <div style={{ backgroundColor: '#FAFAFA' }}>
-        <Image style={{ display: 'block', margin: '0 auto', paddingTop: '5%', paddingBottom: '2%' }} cloudName="kurzweg" publicId="casey_wireframe" width="175" quality="auto" crop="scale" responsive />
+        <Image style={{ display: 'block', margin: '0 auto', paddingTop: '5%', paddingBottom: '2%' }} cloudName="kurzweg" publicId="casey_wireframe" width="150" quality="auto" crop="scale" responsive />
       </div>
       <div className="row" style={{ margin: '0 auto', width: '100%', backgroundColor: '#DEED96', marginBottom: '5%' }}>
         <div className="col-xs-2" style={{ padding: '2%' }}>
