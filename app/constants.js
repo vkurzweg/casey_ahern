@@ -1,0 +1,12 @@
+export const CREATE_MESSAGE = 'app/contact/CREATE_MESSAGE';
+export const CREATE_MESSAGE_SUCCESS = 'app/contact/CREATE_MESSAGE_SUCCESS';
+export const CREATE_MESSAGE_FAILURE = 'app/contact/CREATE_MESSAGE_FAILURE';
+export const OPEN_MODAL = 'app/contact/OPEN_MODAL';
+export const CLOSE_MODAL = 'app/contact/CLOSE_MODAL';
+export const OPEN_SIGNUP_MODAL = 'app/retreats/OPEN_SIGNUP_MODAL';
+export const CLOSE_SIGNUP_MODAL = 'app/retreats/CLOSE_SIGNUP_MODAL';
+export const CREATE_APPLICATION = 'app/careers/CREATE_APPLICATION';
+export const CREATE_APPLICATION_SUCCESS = 'app/careers/CREATE_APPLICATION_SUCCESS';
+export const CREATE_APPLICATION_FAILURE = 'app/careers/CREATE_APPLICATION_FAILURE';
+export const OPEN_CAREER_MODAL = 'app/careers/OPEN_CAREER_MODAL';
+export const CLOSE_CAREER_MODAL = 'app/careers/CLOSE_CAREER_MODAL';
