@@ -18,7 +18,7 @@ function ContentDesktop() {
         </div>
       </div>
       <div style={{ backgroundColor: '#FAFAFA' }}>
-        <Image style={{ display: 'block', margin: '0 auto', paddingTop: '10%', paddingBottom: '10%' }} cloudName="kurzweg" publicId="casey_wireframe" width="150" quality="auto" crop="scale" responsive />
+        <Image style={{ display: 'block', margin: '0 auto', paddingTop: '5%', paddingBottom: '2%' }} cloudName="kurzweg" publicId="casey_wireframe" width="175" quality="auto" crop="scale" responsive />
       </div>
       <div className="row" style={{ margin: '0 auto', width: '100%', backgroundColor: '#DEED96', marginBottom: '5%' }}>
         <div className="col-xs-2" style={{ padding: '2%' }}>

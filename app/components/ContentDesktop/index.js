@@ -26,11 +26,12 @@ function ContentDesktop() {
       <div style={{ backgroundColor: '#FAFAFA' }}>
         <Image style={{ display: 'block', margin: '0 auto', paddingTop: '2%', paddingBottom: '2%' }} cloudName="kurzweg" publicId="casey_wireframe_desktop" width="600" quality="auto" crop="scale" responsive />
       </div>
-      <div className="row" style={{ margin: '0 auto', width: '100%', backgroundColor: '#DEED96', marginBottom: '5%' }}>
+      <div className="row" style={{ margin: '0 auto', width: '100%', backgroundColor: '#DEED96' }}>
         <div style={{ padding: '2%' }}>
-          <h1 style={{ fontFamily: 'Lancelot', fontSize: '42px', textAlign: 'center', textTransform: 'uppercase', letterSpacing: '5px' }}>caseyahern.com</h1>
+          <h1 style={{ fontFamily: 'Ubuntu', fontSize: '42px', textAlign: 'center', textTransform: 'uppercase', letterSpacing: '5px' }}>caseyahern.com</h1>
         </div>
       </div>
+      <h3 style={{ textAlign: 'center', fontFamily: 'Ubuntu', color: 'white', textTransform: 'uppercase', fontSize: '24px', paddingTop: '2%', paddingBottom: '10%', letterSpacing: '3px'}}>contact: casey@caseyahern.com</h3>
     </div>
   );
 }
